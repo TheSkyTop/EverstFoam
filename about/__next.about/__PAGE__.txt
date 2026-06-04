@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[11701,["/EverstFoam/_next/static/chunks/0dbhjjzl8qfwv.js","/EverstFoam/_next/static/chunks/0yis353dbcoi8.js"],"EverestSite"]
+2:I[11701,["/EverstFoam/_next/static/chunks/0dbhjjzl8qfwv.js","/EverstFoam/_next/static/chunks/08bk50e8~b39i.js"],"EverestSite"]
 3:I[97367,["/EverstFoam/_next/static/chunks/0dbhjjzl8qfwv.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"page":"about"}],[["$","script","script-0",{"src":"/EverstFoam/_next/static/chunks/0yis353dbcoi8.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"LHnYO3HZbV45z5535eDAS"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"page":"about"}],[["$","script","script-0",{"src":"/EverstFoam/_next/static/chunks/08bk50e8~b39i.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"C1BMSndAvQ0EVK6Uzf_MU"}
 5:null
