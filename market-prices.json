@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T02:02:48.548Z",
+  "generatedAt": "2026-06-10T06:06:39.387Z",
   "dateBasis": "Australia/Sydney complete trading days",
   "rows": [
     {
@@ -7,39 +7,14 @@
       "market": "NEM",
       "node": "NSW",
       "metric": "RRP",
-      "value": "66.6",
+      "value": "67.81",
       "unit": "$/MWh",
-      "period": "2026-05-28 to 2026-06-04",
+      "period": "2026-06-03 to 2026-06-09",
       "status": "live",
       "sourceName": "AEMO aggregated price and demand",
       "sourceUrl": "https://www.aemo.com.au/aemo/data/nem/priceanddemand/PRICE_AND_DEMAND_202605_NSW1.csv",
       "note": "Seven-day average calculated from AEMO RRP values for complete trading days.",
       "history": [
-        {
-          "date": "2026-05-28",
-          "value": 135.35,
-          "intervals": 288
-        },
-        {
-          "date": "2026-05-29",
-          "value": 97.66,
-          "intervals": 288
-        },
-        {
-          "date": "2026-05-30",
-          "value": 40.78,
-          "intervals": 288
-        },
-        {
-          "date": "2026-05-31",
-          "value": 47.48,
-          "intervals": 288
-        },
-        {
-          "date": "2026-06-02",
-          "value": 51.59,
-          "intervals": 288
-        },
         {
           "date": "2026-06-03",
           "value": 42.16,
@@ -49,6 +24,31 @@
           "date": "2026-06-04",
           "value": 51.2,
           "intervals": 288
+        },
+        {
+          "date": "2026-06-05",
+          "value": 70.1,
+          "intervals": 288
+        },
+        {
+          "date": "2026-06-06",
+          "value": 77.96,
+          "intervals": 288
+        },
+        {
+          "date": "2026-06-07",
+          "value": 83.99,
+          "intervals": 288
+        },
+        {
+          "date": "2026-06-08",
+          "value": 68.94,
+          "intervals": 288
+        },
+        {
+          "date": "2026-06-09",
+          "value": 80.34,
+          "intervals": 288
         }
       ]
     },
@@ -57,39 +57,14 @@
       "market": "NEM",
       "node": "QLD",
       "metric": "RRP",
-      "value": "67.95",
+      "value": "63.66",
       "unit": "$/MWh",
-      "period": "2026-05-28 to 2026-06-04",
+      "period": "2026-06-03 to 2026-06-09",
       "status": "live",
       "sourceName": "AEMO aggregated price and demand",
       "sourceUrl": "https://www.aemo.com.au/aemo/data/nem/priceanddemand/PRICE_AND_DEMAND_202605_QLD1.csv",
       "note": "Seven-day average calculated from AEMO RRP values for complete trading days.",
       "history": [
-        {
-          "date": "2026-05-28",
-          "value": 103.36,
-          "intervals": 288
-        },
-        {
-          "date": "2026-05-29",
-          "value": 75.64,
-          "intervals": 288
-        },
-        {
-          "date": "2026-05-30",
-          "value": 54.66,
-          "intervals": 288
-        },
-        {
-          "date": "2026-05-31",
-          "value": 51.6,
-          "intervals": 288
-        },
-        {
-          "date": "2026-06-02",
-          "value": 78.57,
-          "intervals": 288
-        },
         {
           "date": "2026-06-03",
           "value": 62.17,
@@ -99,6 +74,31 @@
           "date": "2026-06-04",
           "value": 49.65,
           "intervals": 288
+        },
+        {
+          "date": "2026-06-05",
+          "value": 46.1,
+          "intervals": 288
+        },
+        {
+          "date": "2026-06-06",
+          "value": 63.45,
+          "intervals": 288
+        },
+        {
+          "date": "2026-06-07",
+          "value": 75.12,
+          "intervals": 288
+        },
+        {
+          "date": "2026-06-08",
+          "value": 68.74,
+          "intervals": 288
+        },
+        {
+          "date": "2026-06-09",
+          "value": 80.37,
+          "intervals": 288
         }
       ]
     },
@@ -107,39 +107,14 @@
       "market": "NEM",
       "node": "VIC",
       "metric": "RRP",
-      "value": "46.25",
+      "value": "40.34",
       "unit": "$/MWh",
-      "period": "2026-05-28 to 2026-06-04",
+      "period": "2026-06-03 to 2026-06-09",
       "status": "live",
       "sourceName": "AEMO aggregated price and demand",
       "sourceUrl": "https://www.aemo.com.au/aemo/data/nem/priceanddemand/PRICE_AND_DEMAND_202605_VIC1.csv",
       "note": "Seven-day average calculated from AEMO RRP values for complete trading days.",
       "history": [
-        {
-          "date": "2026-05-28",
-          "value": 135.08,
-          "intervals": 288
-        },
-        {
-          "date": "2026-05-29",
-          "value": 92.62,
-          "intervals": 288
-        },
-        {
-          "date": "2026-05-30",
-          "value": 20.26,
-          "intervals": 288
-        },
-        {
-          "date": "2026-05-31",
-          "value": 27.34,
-          "intervals": 288
-        },
-        {
-          "date": "2026-06-02",
-          "value": 16.1,
-          "intervals": 288
-        },
         {
           "date": "2026-06-03",
           "value": 6.71,
@@ -149,6 +124,31 @@
           "date": "2026-06-04",
           "value": 25.65,
           "intervals": 288
+        },
+        {
+          "date": "2026-06-05",
+          "value": 63.85,
+          "intervals": 288
+        },
+        {
+          "date": "2026-06-06",
+          "value": 60.44,
+          "intervals": 288
+        },
+        {
+          "date": "2026-06-07",
+          "value": 76.7,
+          "intervals": 288
+        },
+        {
+          "date": "2026-06-08",
+          "value": 46.35,
+          "intervals": 288
+        },
+        {
+          "date": "2026-06-09",
+          "value": 2.68,
+          "intervals": 288
         }
       ]
     },
@@ -157,39 +157,14 @@
       "market": "NEM",
       "node": "SA",
       "metric": "RRP",
-      "value": "50.31",
+      "value": "48.59",
       "unit": "$/MWh",
-      "period": "2026-05-28 to 2026-06-04",
+      "period": "2026-06-03 to 2026-06-09",
       "status": "live",
       "sourceName": "AEMO aggregated price and demand",
       "sourceUrl": "https://www.aemo.com.au/aemo/data/nem/priceanddemand/PRICE_AND_DEMAND_202605_SA1.csv",
       "note": "Seven-day average calculated from AEMO RRP values for complete trading days.",
       "history": [
-        {
-          "date": "2026-05-28",
-          "value": 149.96,
-          "intervals": 288
-        },
-        {
-          "date": "2026-05-29",
-          "value": 104.13,
-          "intervals": 288
-        },
-        {
-          "date": "2026-05-30",
-          "value": 23.63,
-          "intervals": 288
-        },
-        {
-          "date": "2026-05-31",
-          "value": 32.17,
-          "intervals": 288
-        },
-        {
-          "date": "2026-06-02",
-          "value": 12.52,
-          "intervals": 288
-        },
         {
           "date": "2026-06-03",
           "value": 16.52,
@@ -199,6 +174,31 @@
           "date": "2026-06-04",
           "value": 13.27,
           "intervals": 288
+        },
+        {
+          "date": "2026-06-05",
+          "value": 73.38,
+          "intervals": 288
+        },
+        {
+          "date": "2026-06-06",
+          "value": 87.3,
+          "intervals": 288
+        },
+        {
+          "date": "2026-06-07",
+          "value": 103.11,
+          "intervals": 288
+        },
+        {
+          "date": "2026-06-08",
+          "value": 44.74,
+          "intervals": 288
+        },
+        {
+          "date": "2026-06-09",
+          "value": 1.81,
+          "intervals": 288
         }
       ]
     },
@@ -207,39 +207,14 @@
       "market": "NEM",
       "node": "TAS",
       "metric": "RRP",
-      "value": "89.25",
+      "value": "80.93",
       "unit": "$/MWh",
-      "period": "2026-05-28 to 2026-06-04",
+      "period": "2026-06-03 to 2026-06-09",
       "status": "live",
       "sourceName": "AEMO aggregated price and demand",
       "sourceUrl": "https://www.aemo.com.au/aemo/data/nem/priceanddemand/PRICE_AND_DEMAND_202605_TAS1.csv",
       "note": "Seven-day average calculated from AEMO RRP values for complete trading days.",
       "history": [
-        {
-          "date": "2026-05-28",
-          "value": 104.85,
-          "intervals": 288
-        },
-        {
-          "date": "2026-05-29",
-          "value": 100.5,
-          "intervals": 288
-        },
-        {
-          "date": "2026-05-30",
-          "value": 92.93,
-          "intervals": 288
-        },
-        {
-          "date": "2026-05-31",
-          "value": 82.99,
-          "intervals": 288
-        },
-        {
-          "date": "2026-06-02",
-          "value": 81.27,
-          "intervals": 288
-        },
         {
           "date": "2026-06-03",
           "value": 80.38,
@@ -249,6 +224,31 @@
           "date": "2026-06-04",
           "value": 81.8,
           "intervals": 288
+        },
+        {
+          "date": "2026-06-05",
+          "value": 82.84,
+          "intervals": 288
+        },
+        {
+          "date": "2026-06-06",
+          "value": 80.99,
+          "intervals": 288
+        },
+        {
+          "date": "2026-06-07",
+          "value": 75.56,
+          "intervals": 288
+        },
+        {
+          "date": "2026-06-08",
+          "value": 85.22,
+          "intervals": 288
+        },
+        {
+          "date": "2026-06-09",
+          "value": 79.74,
+          "intervals": 288
         }
       ]
     },
@@ -257,39 +257,14 @@
       "market": "WEM",
       "node": "SWIS",
       "metric": "Reference trading price",
-      "value": "123.4",
+      "value": "131.41",
       "unit": "$/MWh",
-      "period": "2026-05-29 to 2026-06-04",
+      "period": "2026-06-03 to 2026-06-09",
       "status": "live",
       "sourceName": "AEMO WEM reference trading price",
-      "sourceUrl": "https://data.wa.aemo.com.au/public/market-data/wemde/referenceTradingPrice/current/ReferenceTradingPrice_2026-06-04.json",
+      "sourceUrl": "https://data.wa.aemo.com.au/public/market-data/wemde/referenceTradingPrice/current/ReferenceTradingPrice_2026-06-09.json",
       "note": "Seven-day average calculated from AEMO WEM Reference Trading Price files.",
       "history": [
-        {
-          "date": "2026-05-29",
-          "value": 145.39,
-          "intervals": 48
-        },
-        {
-          "date": "2026-05-30",
-          "value": 119.56,
-          "intervals": 48
-        },
-        {
-          "date": "2026-05-31",
-          "value": 100.45,
-          "intervals": 48
-        },
-        {
-          "date": "2026-06-01",
-          "value": 111.52,
-          "intervals": 48
-        },
-        {
-          "date": "2026-06-02",
-          "value": 112.37,
-          "intervals": 48
-        },
         {
           "date": "2026-06-03",
           "value": 150.31,
@@ -299,6 +274,31 @@
           "date": "2026-06-04",
           "value": 124.18,
           "intervals": 48
+        },
+        {
+          "date": "2026-06-05",
+          "value": 135.7,
+          "intervals": 48
+        },
+        {
+          "date": "2026-06-06",
+          "value": 141.34,
+          "intervals": 48
+        },
+        {
+          "date": "2026-06-07",
+          "value": 141.62,
+          "intervals": 48
+        },
+        {
+          "date": "2026-06-08",
+          "value": 110.42,
+          "intervals": 48
+        },
+        {
+          "date": "2026-06-09",
+          "value": 116.27,
+          "intervals": 48
         }
       ]
     },
@@ -307,39 +307,14 @@
       "market": "Gas",
       "node": "DWGM Victoria",
       "metric": "Imbalance weighted average price",
-      "value": "8.53",
+      "value": "6.63",
       "unit": "$/GJ",
-      "period": "2026-05-29 to 2026-06-04",
+      "period": "2026-06-03 to 2026-06-09",
       "status": "live",
       "sourceName": "AEMO DWGM market/reference prices",
       "sourceUrl": "https://www.nemweb.com.au/Reports/CURRENT/VicGas/int041_v4_market_and_reference_prices_1.csv",
       "note": "Seven-day average calculated from AEMO DWGM imbalance weighted average prices, GST exclusive.",
       "history": [
-        {
-          "date": "2026-05-29",
-          "value": 9.18,
-          "intervals": 5
-        },
-        {
-          "date": "2026-05-30",
-          "value": 8.89,
-          "intervals": 5
-        },
-        {
-          "date": "2026-05-31",
-          "value": 9.49,
-          "intervals": 5
-        },
-        {
-          "date": "2026-06-01",
-          "value": 8.96,
-          "intervals": 5
-        },
-        {
-          "date": "2026-06-02",
-          "value": 7.9,
-          "intervals": 5
-        },
         {
           "date": "2026-06-03",
           "value": 7.48,
@@ -349,6 +324,31 @@
           "date": "2026-06-04",
           "value": 7.78,
           "intervals": 5
+        },
+        {
+          "date": "2026-06-05",
+          "value": 7.46,
+          "intervals": 5
+        },
+        {
+          "date": "2026-06-06",
+          "value": 5.89,
+          "intervals": 5
+        },
+        {
+          "date": "2026-06-07",
+          "value": 5.55,
+          "intervals": 5
+        },
+        {
+          "date": "2026-06-08",
+          "value": 6.35,
+          "intervals": 5
+        },
+        {
+          "date": "2026-06-09",
+          "value": 5.89,
+          "intervals": 5
         }
       ]
     },
@@ -357,39 +357,14 @@
       "market": "Gas",
       "node": "STTM Sydney",
       "metric": "Ex ante market price",
-      "value": "8.85",
+      "value": "7.06",
       "unit": "$/GJ",
-      "period": "2026-05-31 to 2026-06-06",
+      "period": "2026-06-05 to 2026-06-11",
       "status": "live",
       "sourceName": "AEMO STTM ex ante market price",
       "sourceUrl": "https://www.nemweb.com.au/Reports/CURRENT/STTM/int651_v1_ex_ante_market_price_rpt_1.csv",
       "note": "Seven-day average calculated from AEMO STTM hub ex ante market prices.",
       "history": [
-        {
-          "date": "2026-05-31",
-          "value": 9.75,
-          "intervals": 1
-        },
-        {
-          "date": "2026-06-01",
-          "value": 9.74,
-          "intervals": 1
-        },
-        {
-          "date": "2026-06-02",
-          "value": 9.73,
-          "intervals": 1
-        },
-        {
-          "date": "2026-06-03",
-          "value": 9.45,
-          "intervals": 1
-        },
-        {
-          "date": "2026-06-04",
-          "value": 8,
-          "intervals": 1
-        },
         {
           "date": "2026-06-05",
           "value": 8.12,
@@ -399,6 +374,31 @@
           "date": "2026-06-06",
           "value": 7.19,
           "intervals": 1
+        },
+        {
+          "date": "2026-06-07",
+          "value": 6.46,
+          "intervals": 1
+        },
+        {
+          "date": "2026-06-08",
+          "value": 6.76,
+          "intervals": 1
+        },
+        {
+          "date": "2026-06-09",
+          "value": 6.35,
+          "intervals": 1
+        },
+        {
+          "date": "2026-06-10",
+          "value": 7.2,
+          "intervals": 1
+        },
+        {
+          "date": "2026-06-11",
+          "value": 7.33,
+          "intervals": 1
         }
       ]
     },
@@ -407,39 +407,14 @@
       "market": "Gas",
       "node": "STTM Adelaide",
       "metric": "Ex ante market price",
-      "value": "9.03",
+      "value": "7.09",
       "unit": "$/GJ",
-      "period": "2026-05-31 to 2026-06-06",
+      "period": "2026-06-05 to 2026-06-11",
       "status": "live",
       "sourceName": "AEMO STTM ex ante market price",
       "sourceUrl": "https://www.nemweb.com.au/Reports/CURRENT/STTM/int651_v1_ex_ante_market_price_rpt_1.csv",
       "note": "Seven-day average calculated from AEMO STTM hub ex ante market prices.",
       "history": [
-        {
-          "date": "2026-05-31",
-          "value": 10.01,
-          "intervals": 1
-        },
-        {
-          "date": "2026-06-01",
-          "value": 9.6,
-          "intervals": 1
-        },
-        {
-          "date": "2026-06-02",
-          "value": 9.76,
-          "intervals": 1
-        },
-        {
-          "date": "2026-06-03",
-          "value": 9.54,
-          "intervals": 1
-        },
-        {
-          "date": "2026-06-04",
-          "value": 8.49,
-          "intervals": 1
-        },
         {
           "date": "2026-06-05",
           "value": 8.5,
@@ -449,6 +424,31 @@
           "date": "2026-06-06",
           "value": 7.3,
           "intervals": 1
+        },
+        {
+          "date": "2026-06-07",
+          "value": 6.5,
+          "intervals": 1
+        },
+        {
+          "date": "2026-06-08",
+          "value": 4.02,
+          "intervals": 1
+        },
+        {
+          "date": "2026-06-09",
+          "value": 7.82,
+          "intervals": 1
+        },
+        {
+          "date": "2026-06-10",
+          "value": 7.8,
+          "intervals": 1
+        },
+        {
+          "date": "2026-06-11",
+          "value": 7.7,
+          "intervals": 1
         }
       ]
     },
@@ -457,39 +457,14 @@
       "market": "Gas",
       "node": "STTM Brisbane",
       "metric": "Ex ante market price",
-      "value": "9.12",
+      "value": "7.66",
       "unit": "$/GJ",
-      "period": "2026-05-31 to 2026-06-06",
+      "period": "2026-06-05 to 2026-06-11",
       "status": "live",
       "sourceName": "AEMO STTM ex ante market price",
       "sourceUrl": "https://www.nemweb.com.au/Reports/CURRENT/STTM/int651_v1_ex_ante_market_price_rpt_1.csv",
       "note": "Seven-day average calculated from AEMO STTM hub ex ante market prices.",
       "history": [
-        {
-          "date": "2026-05-31",
-          "value": 9.9,
-          "intervals": 1
-        },
-        {
-          "date": "2026-06-01",
-          "value": 9.93,
-          "intervals": 1
-        },
-        {
-          "date": "2026-06-02",
-          "value": 10.15,
-          "intervals": 1
-        },
-        {
-          "date": "2026-06-03",
-          "value": 9.59,
-          "intervals": 1
-        },
-        {
-          "date": "2026-06-04",
-          "value": 8.43,
-          "intervals": 1
-        },
         {
           "date": "2026-06-05",
           "value": 8.43,
@@ -499,6 +474,31 @@
           "date": "2026-06-06",
           "value": 7.4,
           "intervals": 1
+        },
+        {
+          "date": "2026-06-07",
+          "value": 7.47,
+          "intervals": 1
+        },
+        {
+          "date": "2026-06-08",
+          "value": 7.01,
+          "intervals": 1
+        },
+        {
+          "date": "2026-06-09",
+          "value": 7.65,
+          "intervals": 1
+        },
+        {
+          "date": "2026-06-10",
+          "value": 7.78,
+          "intervals": 1
+        },
+        {
+          "date": "2026-06-11",
+          "value": 7.85,
+          "intervals": 1
         }
       ]
     },
@@ -507,39 +507,14 @@
       "market": "Gas",
       "node": "GSH Wallumbilla",
       "metric": "Benchmark price",
-      "value": "9.75",
+      "value": "7.88",
       "unit": "$/GJ",
-      "period": "2026-05-30 to 2026-06-05",
+      "period": "2026-06-04 to 2026-06-10",
       "status": "live",
       "sourceName": "AEMO GSH Wallumbilla benchmark price",
-      "sourceUrl": "https://www.nemweb.com.au/Reports/CURRENT/GSH/Benchmark_Price/PUBLIC_WALLUMBILLABENCHMARKPRICE_20260605.zip",
+      "sourceUrl": "https://www.nemweb.com.au/Reports/CURRENT/GSH/Benchmark_Price/PUBLIC_WALLUMBILLABENCHMARKPRICE_20260610.zip",
       "note": "Seven-day average calculated from AEMO Gas Supply Hub Wallumbilla benchmark prices.",
       "history": [
-        {
-          "date": "2026-05-30",
-          "value": 10.3,
-          "intervals": 1
-        },
-        {
-          "date": "2026-05-31",
-          "value": 10.3,
-          "intervals": 1
-        },
-        {
-          "date": "2026-06-01",
-          "value": 9.95,
-          "intervals": 1
-        },
-        {
-          "date": "2026-06-02",
-          "value": 9.93,
-          "intervals": 1
-        },
-        {
-          "date": "2026-06-03",
-          "value": 9.8,
-          "intervals": 1
-        },
         {
           "date": "2026-06-04",
           "value": 9,
@@ -549,49 +524,74 @@
           "date": "2026-06-05",
           "value": 9,
           "intervals": 1
+        },
+        {
+          "date": "2026-06-06",
+          "value": 7.75,
+          "intervals": 1
+        },
+        {
+          "date": "2026-06-07",
+          "value": 7.2,
+          "intervals": 1
+        },
+        {
+          "date": "2026-06-08",
+          "value": 7.2,
+          "intervals": 1
+        },
+        {
+          "date": "2026-06-09",
+          "value": 7.2,
+          "intervals": 1
+        },
+        {
+          "date": "2026-06-10",
+          "value": 7.8,
+          "intervals": 1
         }
       ]
     }
   ],
   "marketContext": {
     "title": "Market context",
-    "generatedAt": "2026-06-05T02:02:48.546Z",
+    "generatedAt": "2026-06-10T06:06:39.386Z",
     "periods": [
       {
         "id": "calendar-year",
         "label": "2026 calendar year to date",
-        "period": "2026-01-01 to 2026-06-05",
+        "period": "2026-01-01 to 2026-06-10",
         "weatherPattern": "Year-to-date results should be read through summer heat, shoulder-season rooftop solar, hydro conditions and the availability of coal, gas, batteries and interconnectors.",
         "states": [
           {
             "state": "NSW",
-            "averageRrp": 72.72,
-            "averageDemand": 7456,
-            "days": 149
+            "averageRrp": 72.83,
+            "averageDemand": 7470,
+            "days": 154
           },
           {
             "state": "QLD",
-            "averageRrp": 65.71,
-            "averageDemand": 6366,
-            "days": 149
+            "averageRrp": 65.75,
+            "averageDemand": 6354,
+            "days": 154
           },
           {
             "state": "VIC",
-            "averageRrp": 46.47,
-            "averageDemand": 4836,
-            "days": 149
+            "averageRrp": 46.58,
+            "averageDemand": 4861,
+            "days": 154
           },
           {
             "state": "SA",
-            "averageRrp": 80.14,
-            "averageDemand": 1324,
-            "days": 149
+            "averageRrp": 79.56,
+            "averageDemand": 1328,
+            "days": 154
           },
           {
             "state": "TAS",
-            "averageRrp": 93.36,
-            "averageDemand": 983,
-            "days": 149
+            "averageRrp": 92.95,
+            "averageDemand": 986,
+            "days": 154
           }
         ],
         "keyPatterns": [
