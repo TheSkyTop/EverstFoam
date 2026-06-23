@@ -8,9 +8,7 @@
   if (!isEverest) return;
 
   function applyEverestBranding() {
-    document.title = "Everest Foam";
-
-    var href = "/everest-favicon.svg";
+var href = "/everest-favicon.svg";
     document.querySelectorAll('link[rel~="icon"], link[rel="shortcut icon"], link[rel="apple-touch-icon"]').forEach(function (link) {
       link.parentNode && link.parentNode.removeChild(link);
     });
@@ -27,7 +25,7 @@
   window.addEventListener("DOMContentLoaded", applyEverestBranding);
   var observer = new MutationObserver(function () {
     var icons = document.querySelectorAll('link[rel~="icon"], link[rel="shortcut icon"], link[rel="apple-touch-icon"]');
-    var needsUpdate = document.title !== "Everest Foam" || icons.length !== 1 || icons[0].getAttribute("href") !== href;
+    var needsUpdate = icons.length !== 1 || icons[0].getAttribute("href") !== href;
     if (needsUpdate) applyEverestBranding();
   });
   observer.observe(document.head, { childList: true, subtree: true });
