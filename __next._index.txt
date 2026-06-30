@@ -8,14 +8,14 @@
   if (!isEverest) return;
 
   function applyEverestBranding() {
-var href = "/everest-favicon.svg";
+var href = "/everest-favicon.png";
     document.querySelectorAll('link[rel~="icon"], link[rel="shortcut icon"], link[rel="apple-touch-icon"]').forEach(function (link) {
       link.parentNode && link.parentNode.removeChild(link);
     });
 
     var link = document.createElement("link");
     link.rel = "icon";
-    link.type = "image/svg+xml";
+    link.type = "image/png";
     link.href = href;
     link.setAttribute("data-everest-brand", "true");
     document.head.appendChild(link);
