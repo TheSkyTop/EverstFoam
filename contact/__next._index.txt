@@ -8,7 +8,7 @@
   if (!isEverest) return;
 
   function applyEverestBranding() {
-var href = "/everest-favicon.png";
+var href = "/favicon.ico";
     document.querySelectorAll('link[rel~="icon"], link[rel="shortcut icon"], link[rel="apple-touch-icon"]').forEach(function (link) {
       link.parentNode && link.parentNode.removeChild(link);
     });
